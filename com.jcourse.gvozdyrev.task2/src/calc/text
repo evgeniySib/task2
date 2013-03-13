@@ -1,0 +1,11 @@
+define a 76
+define b 100
+push a
+push a
+push b
+push a
++
+sqrt
+/
+# коментарий
+print
